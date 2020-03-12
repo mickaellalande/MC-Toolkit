@@ -1,8 +1,12 @@
 
+
 # MC-Toolkit
 The goal of this repository is to give support materials for the meetings at IGE about tools: MC-Toolkit (MC stand for Mardi-Café, Modelisation&Climate,... who knows?), in additions of a Slack channel. 
 
-Here are some ideas of topics/tools to talk about:
+### Planning:
+- Tuesday 17/03 at 10h30 in Lliboutry: Presentation
+
+### Here are some ideas of topics/tools to talk about:
 - xarray (+dask) / cdo / climaf (climatology)  
 - How to compute climatologies (DJF, days in months, etc. what do you do?)
 - cartopy / ferret / basemap / proplot (plot)  
@@ -17,6 +21,7 @@ Here are some ideas of topics/tools to talk about:
 - How to get CMIP6 data? (website, CICLAD/CLIMAF)
 - Reanalyses / Observations 
 - How to launch MAR / LMDZ / Elmer-ICE / NEMO
+- visit / FlowVR (Basile HECTOR)
   
 The goal is to present a tool and exchange with others + know who to ask when we need help.
 
