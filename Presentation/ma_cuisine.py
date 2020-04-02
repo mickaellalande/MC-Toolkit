@@ -181,7 +181,7 @@ def year_mean(da, calendar='standard', season='annual'):
             month_end = month_start + len(season) - 1
 
             if month_end > 12:
-                # Remove one year ([month_end:-(12-month_start+1)]) to have continious months
+                # Remove one year (.isel(time=slice(month_end,-(12-month_start+1)))) to have continious months
                 # The month/year label is from the starting month
 
                 # Checked with cdo: !cdo yearmonmean -selmon,10,11,12 -shifttime,-2mo in.nc out.nc
@@ -193,15 +193,17 @@ def year_mean(da, calendar='standard', season='annual'):
                 # Same results with the calendar=360_day
                 #
                 # Try with cdo season selection?
+                
+                # https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects
 
                 month_end -= 12
                 season_sel = (month >= month_start) | (month <= month_end)
-                seasonal_data = da.sel(time=season_sel)[month_end:-(12-month_start+1)]
-                seasonal_month_length = month_length.astype(float).sel(time=season_sel)[month_end:-(12-month_start+1)]
+                seasonal_data = da.sel(time=season_sel).isel(time=slice(month_end,-(12-month_start+1)))
+                seasonal_month_length = month_length.astype(float).sel(time=season_sel).isel(time=slice(month_end,-(12-month_start+1)))
                 weights = xr.DataArray(
                    [value/seasonal_month_length.resample(time='AS-'+cld.month_abbr[month_start]).sum().values[i//len(season)] \
                          for i, value in enumerate(seasonal_month_length.values)],
-                    coords = [month_length.sel(time=season_sel)[month_end:-(12-month_start+1)].time],
+                    coords = [month_length.sel(time=season_sel).isel(time=slice(month_end,-(12-month_start+1))).time],
                     name = 'weights'
                                       )
                 sum_weights = weights.resample(time='AS-'+cld.month_abbr[month_start]).sum()
@@ -209,6 +211,9 @@ def year_mean(da, calendar='standard', season='annual'):
                 with xr.set_options(keep_attrs=True):
                     season_mean = (seasonal_data * weights).resample(time='AS-'+cld.month_abbr[month_start])\
                                                            .sum('time', skipna=False)
+                # To keep same format as the version bellow (be aware that the year label will be from the first month)
+                season_mean = season_mean.assign_coords({"time": season_mean['time.year']})
+                season_mean = season_mean.rename({'time': 'year'})
 
 
             else:
