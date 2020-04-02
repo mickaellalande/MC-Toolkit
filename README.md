@@ -4,7 +4,11 @@
 The goal of this repository is to give support materials for the meetings at IGE about tools: MC-Toolkit (MC stand for Mardi-Café, Modelisation&Climate,... who knows?), in additions of a Slack channel. 
 
 ### Planning:
-- Tuesday 17/03 at 10h30 in Lliboutry: Presentation
+- ~~Tuesday 17/03 at 10h30 in Lliboutry: Presentation~~ (postponed COVID-19)
+- Tuesday 07/04 at 10:15 am (online): [Presentation](https://github.com/mickaellalande/MC-Toolkit/tree/master/Presentation)
+	-  [MC-Toolkit meetings presentation.pdf](https://github.com/mickaellalande/MC-Toolkit/blob/master/Presentation/MC-Toolkit%20meetings%20presentation.pdf)
+	- [CLIMAF_example.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/Presentation/CLIMAF_example.ipynb)
+	- [xarray_example.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/Presentation/xarray_example.ipynb)
 
 ### Here are some ideas of topics/tools to talk about:
 - xarray (+dask) / cdo / climaf (climatology)  
