@@ -19,9 +19,6 @@ The goal of this repository is to give support materials for the meetings at [IG
 ## Past meetings:
 
 - Tuesday 07/04 at 10:15 am (online): [Presentation](https://github.com/mickaellalande/MC-Toolkit/tree/master/Presentation) (Mickaël Lalande)
-	-  [MC-Toolkit meetings presentation.pdf](https://github.com/mickaellalande/MC-Toolkit/blob/master/Presentation/MC-Toolkit%20meetings%20presentation.pdf)
-	- [CLIMAF_example.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/Presentation/CLIMAF_example.ipynb) (this is only a teaser next meeting will be on CLIMAF)
-	- [xarray_example.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/Presentation/xarray_example.ipynb) (this is only a teaser few next meeting will be dedicated to xarray, if you still want to run this example see the README inside the Presentation folder)
 - ~~Tuesday 17/03 at 10h30 in Lliboutry: Presentation~~ (postponed COVID-19)
 
 
