@@ -19,7 +19,6 @@ The goal of this repository is to give support materials for the meetings at [IG
 ## Past meetings:
 
 - Tuesday 07/04 at 10:15 am (online): [Presentation](https://github.com/mickaellalande/MC-Toolkit/tree/master/Presentation) (Mickaël Lalande)
-- ~~Tuesday 17/03 at 10h30 in Lliboutry: Presentation~~ (postponed COVID-19)
 
 
 
