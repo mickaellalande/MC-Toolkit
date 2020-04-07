@@ -7,6 +7,7 @@ The goal of this repository is to give support materials for the meetings at [IG
 ## Next meetings:
 - Next time (date to be confirmed): short description of git commands, notebook and **CLIMERI infrastructure** (Martin Ménégoz)
 - Next next time (in about a month): 'best practices' with **git**+**jupyter notebooks** (Aurélie Albert)
+test
 
 ## Possible unplanned meetings:
 
