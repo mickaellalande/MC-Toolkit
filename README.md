@@ -1,14 +1,16 @@
 
 
 
+
 # MC-Toolkit
 The goal of this repository is to give support materials for the meetings at [IGE](http://www.ige-grenoble.fr/) about tools: MC-Toolkit (MC stand for Mardi-Café, Modelisation&Climate,... who knows?), in additions of a Slack channel.
 
-## Next meetings:
-- Next time (date to be confirmed): short description of git commands, notebook and **CLIMERI infrastructure** (Martin Ménégoz)
-- Next next time (in about a month): 'best practices' with **git**+**jupyter notebooks** (Aurélie Albert)
+For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
-## Possible unplanned meetings:
+## Next meetings:
+- Tuesday 28/04: 'best practices' with **git**+**jupyter notebooks** (Aurélie Albert)
+
+## Possible meetings:
 
 - basics of **xarray** (Mickaël Lalande)
 - **dask+xarray** and **pangeo** (Aurélie Albert)
@@ -18,6 +20,7 @@ The goal of this repository is to give support materials for the meetings at [IG
 
 ## Past meetings:
 
+- Tuesday 14/04 at 10:10 am (online): [CLIMAF](https://github.com/mickaellalande/MC-Toolkit/tree/master/CLIMAF_martin) (Martin Ménégoz)
 - Tuesday 07/04 at 10:15 am (online): [Presentation](https://github.com/mickaellalande/MC-Toolkit/tree/master/Presentation) (Mickaël Lalande)
 
 
