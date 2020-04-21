@@ -8,7 +8,7 @@ The goal of this repository is to give support materials for the meetings at [IG
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings:
-- Tuesday 28/04: 'best practices' with **git**+**jupyter notebooks** (Aurélie Albert)
+- Tuesday 05/05: 'best practices' with **git**+**jupyter notebooks** (Aurélie Albert)
 
 ## Possible meetings:
 
