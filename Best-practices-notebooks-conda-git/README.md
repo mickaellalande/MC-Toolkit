@@ -1,6 +1,6 @@
-#Best practices for using jupyter notebooks with git and conda
+# Best practices for using jupyter notebooks with git and conda
 
-Here is the pdf of the talk given on May, the 5th 2020 at Mardi Café.
+Here is the [pdf](https://github.com/mickaellalande/MC-Toolkit/blob/master/Best-practices-notebooks-conda-git/best-practices-jupyter-notebook-git-conda-final.pdf) of the talk given on May, the 5th 2020 at Mardi Café.
 You can watch the video here.
 
 Some links below :
