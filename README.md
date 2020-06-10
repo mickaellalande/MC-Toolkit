@@ -8,7 +8,7 @@ The goal of this repository is to give support materials for the meetings at [IG
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings:
-- To plan: **Cartopy map** (Fanny Brun)
+- Tuesday 16/06 at 09:30 am: **Cartopy map** (Fanny Brun)
 
 ## Possible meetings:
 
