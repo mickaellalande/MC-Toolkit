@@ -31,7 +31,7 @@ sh Miniconda3-latest-Linux-x86_64.sh
 source ~/.bashrc  
 ```
 You should have a `(base)` in front of your line in your terminal, that correspond to the **root** environment.
-  
+
 2.  **Add [conda-forge](https://conda-forge.org/docs/user/introduction.html)** and **update** your installation (optionnal but I recommend):  
 ```bash
 conda config --add channels conda-forge  
@@ -65,7 +65,7 @@ pip install pytest
 pytest -v --pyargs xesmf  
 ```
 If it doesn't work I advice you to install with the spec-file.txt (3. above) or give up for this package (it is for regridding). You can use CDO or another tool for regridding.
-  
+
 Then install other packages (xarray, pandas, numpy already isntalled from previous packages): 
 ```bash 
 conda install jupyter psutil netcdf4 proplot cartopy matplotlib 

@@ -8,17 +8,17 @@ The goal of this repository is to give support materials for the meetings at [IG
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings:
-- Tuesday 16/06 at 09:30 am: **Cartopy map** (Fanny Brun)
+- Tuesday 30/06 at 10:00 am (to confirm): **Set conda environment + xarray** (Mickaël Lalande)
 
 ## Possible meetings:
 
-- basics of **xarray** (Mickaël Lalande)
 - **dask+xarray** and **pangeo** (Aurélie Albert)
 - **visit** / **FlowVR** (Basile HECTOR)
 - **PyVista** (Benoït Urruty)
 
 ## Past meetings:
 
+- Tuesday 16/06 at 09:30 am: **Cartopy map** (Fanny Brun)
 - Tuesday 05/05 at 10:30 am: ['best practices' with **git**+**jupyter notebooks**](https://github.com/mickaellalande/MC-Toolkit/blob/master/Best-practices-notebooks-conda-git/README.md) (Aurélie Albert)
 - Tuesday 14/04 at 10:10 am (online): [CLIMAF](https://github.com/mickaellalande/MC-Toolkit/tree/master/CLIMAF_martin) (Martin Ménégoz)
 - Tuesday 07/04 at 10:15 am (online): [Presentation](https://github.com/mickaellalande/MC-Toolkit/tree/master/Presentation) (Mickaël Lalande)
@@ -43,6 +43,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 - How to launch MAR / LMDZ / Elmer-ICE / NEMO
 
   
+
 The goal is to present a tool and exchange with others + know who to ask when we need help.
 
 [MEOM's tutos software](https://github.com/meom-group/tutos/blob/master/software.md) already has a lot a useful informations!
