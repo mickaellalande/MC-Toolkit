@@ -4,7 +4,7 @@
 
 Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/2020
 
-## Notebooks
+## Notebooks
 - quick-overview.ipynb: allows to take in hand xarray
 - advanced-analysis.ipynb: more advanced analysis using the utils.py file (which includes several draft functions allowing to make climatological analyses from monthly files by taking into account the weight of the days in a month)
   - Make an ensemble mean
@@ -15,7 +15,7 @@ Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/20
   - Trends analysis (vectorized)
   - Plots with the package Proplot
 
-## Main packages descriptions
+## Main packages descriptions
 
 All these packages are not necessary, it is an example, knowing that there are many different ways to plot, regrid, etc.
 
