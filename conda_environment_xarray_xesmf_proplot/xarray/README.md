@@ -4,6 +4,17 @@
 
 Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/2020
 
+## Notebooks
+- quick-overview.ipynb: allows to take in hand xarray
+- advanced-analysis.ipynb: more advanced analysis using the utils.py file (which includes several draft functions allowing to make climatological analyses from monthly files by taking into account the weight of the days in a month)
+  - Make an ensemble mean
+  - Check monthly data
+  - Climatology
+  - Bias analyses (regrid obs with xesmf)
+  - Annual cycle
+  - Trends analysis (vectorized)
+  - Plots with the package Proplot
+
 ## Main packages descriptions
 
 All these packages are not necessary, it is an example, knowing that there are many different ways to plot, regrid, etc.
@@ -26,7 +37,12 @@ conda create -n xarray --file spec-file.txt
 conda activate xarray
 ```
 
+### Some issues related with this environment
 
+- xESFM installation: https://github.com/JiaweiZhuang/xESMF/issues/47
+- xESFM NaN's: https://github.com/JiaweiZhuang/xESMF/issues/15
+- Proplot colormaps: https://github.com/lukelbd/proplot/issues/123
+- Proplot colorbar: https://github.com/lukelbd/proplot/issues/124
 
 ------
 
