@@ -4,7 +4,7 @@ Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/20
 
 This is some recommendations based on my own experience, feel free not to follow each steps and/or don't hesitate to give update to this doc to improve it!
 
-## General installation
+## General installation
 
 1. **Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)**:
    (if you don't already have an installation of Anaconda/Miniconda -> Miniconda is lighter and allows to only install the packages that you need)
@@ -97,7 +97,7 @@ See more: https://gricad-doc.univ-grenoble-alpes.fr/notebook/hpcnb/ (other metho
 
 
 
-## CICLAD specifications (with CLIMAF)
+## CICLAD specifications (with CLIMAF)
 
 You need to get a "port" from jerome.servonnat@lsce.ipsl.fr before to use Jupyter-Notebook.
 
@@ -113,7 +113,7 @@ Follow the instructions
 
 
 
-## Jean-Zay specifications
+## Jean-Zay specifications
 
 ```bash
 ssh -XY ufz23bm@jean-zay-pp.idris.fr
@@ -124,7 +124,7 @@ idrjup --notebook-dir=$WORK
 
 Then open the link in your browser: https://jean-zay-srv2.idris.fr (see * if you are not connecting directly from your computer), enter you login/pw from IDRIS, then click on "Envoyer" button from your Job. Write the "Mot de passe jupyter" in the browser. Enjoy!
 
-\* If you connecte via CICLAD for example you can make a tunel from your own terminal: `ssh -N -D 8080 mlalande@ciclad.ipsl.jussieu.fr` and then setting a proxy in Firefox for exemple (in Proxy network/réseau) settings:  "Manual configuration" -> Hôte SOCKS: 127.0.0.1, Port: 8080, SOCKS v5
+\* If you connect via CICLAD for example you can make a tunel from your own terminal: `ssh -N -D 8080 mlalande@ciclad.ipsl.jussieu.fr` and then setting a proxy in Firefox for exemple (in Proxy network/réseau) settings:  "Manual configuration" -> Hôte SOCKS: 127.0.0.1, Port: 8080, SOCKS v5
 
 More infos: http://www.idris.fr/eng/jean-zay/pre-post/jean-zay-jupyter-notebook-eng.html (other method)
 

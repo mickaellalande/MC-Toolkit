@@ -27,7 +27,7 @@ All these packages are not necessary, it is an example, knowing that there are m
 - [proplot](https://proplot.readthedocs.io/en/latest/): new plot package that I find really promising (try to have latest version because it is evolving fast)
 - [xesmf](https://xesmf.readthedocs.io/en/latest/): for regridding (not easy to install sometimes)
 
-## Install environment (with the spec-file.txt)
+## Install environment (with the spec-file.txt)
 
 It is recommended not to use the **root** (base) environment so that you keep a clean installation (see the [note](https://conda-forge.org/docs/user/introduction.html) at the end of the page). If you already have an Anaconda/Miniconda it doesn't mater and just make a new environment for the examples of this repository.
 
