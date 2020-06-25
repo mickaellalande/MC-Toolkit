@@ -8,7 +8,7 @@ The goal of this repository is to give support materials for the meetings at [IG
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings:
-- Tuesday 30/06 at 10:00 am (to confirm): **Set conda environment + xarray** (Mickaël Lalande)
+- Tuesday 30/06 at 10:00 am: **Set conda environment + xarray** (Mickaël Lalande)
 
 ## Possible meetings:
 
