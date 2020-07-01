@@ -2,7 +2,7 @@
 
 # Xarray examples ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to end)
 
-Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/2020
+Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 01/07/2020
 
 ## Notebooks
 - [quick-overview.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/conda_environment_xarray_xesmf_proplot/xarray/quick-overview.ipynb) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to 1:13:30): allows to take in hand xarray
