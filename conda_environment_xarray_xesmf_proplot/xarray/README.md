@@ -1,12 +1,12 @@
 
 
-# Xarray examples
+# Xarray examples ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to end)
 
 Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/2020
 
 ## Notebooks
-- [quick-overview.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/conda_environment_xarray_xesmf_proplot/xarray/quick-overview.ipynb): allows to take in hand xarray
-- [advanced-analysis.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/conda_environment_xarray_xesmf_proplot/xarray/advanced-analysis.ipynb): more advanced analysis using the `utils.py` file (which includes several draft functions allowing to make climatological analyses from monthly files by taking into account the weight of the days in a month)
+- [quick-overview.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/conda_environment_xarray_xesmf_proplot/xarray/quick-overview.ipynb) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to 1:13:30): allows to take in hand xarray
+- [advanced-analysis.ipynb](https://github.com/mickaellalande/MC-Toolkit/blob/master/conda_environment_xarray_xesmf_proplot/xarray/advanced-analysis.ipynb) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:13:30 to end): more advanced analysis using the `utils.py` file (which includes several draft functions allowing to make climatological analyses from monthly files by taking into account the weight of the days in a month)
   - Make an ensemble mean
   - Check monthly data
   - Climatology

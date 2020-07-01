@@ -1,4 +1,4 @@
-# Set a conda environment and Jupyter-Notebook
+# Set a conda environment and Jupyter-Notebook ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:25 to 35:10)
 
 Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 18/06/2020
 
@@ -44,7 +44,7 @@ conda activate my_env
 ```
 **Tip**: You can add `conda activate my_env` in your .bashrc so you don't have to activate it every time.
 
-**Tip 2**: Use screen not to get disconnected!
+**Tip 2**: Use [screen](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/40849-executer-des-programmes-en-arriere-plan#/id/r-40848) not to get disconnected!
 
 **Note**: Usually each computational center have their own way to use Jupyter-Notebook, however it usually uses some of their installation that is most of the time not convenient... That's why I personally prefer to install my own environment so that I have control on the packages I want to install etc.
 
@@ -127,6 +127,30 @@ Then open the link in your browser: https://jean-zay-srv2.idris.fr (see * if you
 \* If you connect via CICLAD for example you can make a tunel from your own terminal: `ssh -N -D 8080 mlalande@ciclad.ipsl.jussieu.fr` and then setting a proxy in Firefox for exemple (in Proxy network/réseau) settings:  "Manual configuration" -> Hôte SOCKS: 127.0.0.1, Port: 8080, SOCKS v5
 
 More infos: http://www.idris.fr/eng/jean-zay/pre-post/jean-zay-jupyter-notebook-eng.html (other method)
+
+
+
+## Trick Ghislain ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 20:00)
+
+To launch jupyter, I put everything in argument, which avoids the config of gricad. I'm obviously making an alias
+
+```bash
+jupyter lab --port 10345 --ip 0.0.0.0  --no-browser
+```
+
+and underneath the script to make the tunnel, I've got two, one for dahu and one for ipsl. The rest of the "ss" config is in .ssh/config.
+
+```bash
+#!/bin/bash
+
+if [ $# -eq 0 ]; then
+    echo "Provide the name of the node (should be merlinX-c)"
+fi
+
+PORT=10345  # chacun met un port different !!
+
+ssh -o ServerAliveInterval=60 -o ServerAliveCountMax=3 -f -N -L  $PORT:$1:$PORT ipsl
+```
 
 
 
