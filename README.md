@@ -18,10 +18,10 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Past meetings:
 
-- Tuesday 30/06 at 10:00 am: [Set **conda** environment](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:25 to 35:10) + [**xarray**](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot/xarray) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to end) (Mickaël Lalande)
-- Tuesday 16/06 at 09:30 am: **Cartopy map** (Fanny Brun)
-- Tuesday 05/05 at 10:30 am: ['best practices' with **git**+**jupyter notebooks**](https://github.com/mickaellalande/MC-Toolkit/blob/master/Best-practices-notebooks-conda-git/README.md) ([video](https://www.youtube.com/watch?v=NFj-qJ5r4iI&feature=youtu.be)) (Aurélie Albert)
-- Tuesday 14/04 at 10:10 am (online): [**CLIMAF**](https://github.com/mickaellalande/MC-Toolkit/tree/master/CLIMAF_martin) (Martin Ménégoz)
+- Tuesday 30/06 at 10:00 am: [Set conda environment](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:25 to 35:10) + [xarray](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot/xarray) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to end) (Mickaël Lalande)
+- Tuesday 16/06 at 09:30 am: [Cartopy map](cartopy) (Fanny Brun)
+- Tuesday 05/05 at 10:30 am: ['best practices' with git+jupyter notebooks](https://github.com/mickaellalande/MC-Toolkit/blob/master/Best-practices-notebooks-conda-git/README.md) ([video](https://www.youtube.com/watch?v=NFj-qJ5r4iI&feature=youtu.be)) (Aurélie Albert)
+- Tuesday 14/04 at 10:10 am (online): [CLIMAF](https://github.com/mickaellalande/MC-Toolkit/tree/master/CLIMAF_martin) (Martin Ménégoz)
 - Tuesday 07/04 at 10:15 am (online): [Presentation](https://github.com/mickaellalande/MC-Toolkit/tree/master/Presentation) (Mickaël Lalande)
 
 
