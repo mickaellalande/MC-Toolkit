@@ -1,8 +1,10 @@
 # Set a conda environment and Jupyter-Notebook ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:25 to 35:10)
 
-Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 01/07/2020
+Mickaël Lalande (mickael.lalande@univ-grenoble-alpes.fr) - last update 22/07/2020
 
 This is some recommendations based on my own experience, feel free not to follow each steps and/or don't hesitate to give update to this doc to improve it!
+
+Another great video from the SciPyConf 2020: https://www.youtube.com/watch?v=qn5zfdJtcYc&list=PLYx7XA2nY5Gde-6QO98KUJ9iL_WW4rgYf&index=5, they advice in particular to install also `pip` in any environment in order to have the pip installations included in your conda environment. 
 
 ## General installation
 
