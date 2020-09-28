@@ -8,7 +8,7 @@ The goal of this repository is to give support materials for the meetings at [IG
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings:
-- From October 20th: **Dask and Pangeo** (Aurélie Albert)
+- From October 20th: **[Dask](https://dask.org/) and [Pangeo](https://pangeo.io/)** (Aurélie Albert)
 - From end of October: **Python dashboard** (Juan-Pedro ROLDAN-BLASCO)
 
 ## Possible next meetings:
