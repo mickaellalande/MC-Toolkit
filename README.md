@@ -8,11 +8,12 @@ The goal of this repository is to give support materials for the meetings at [IG
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings:
-- After summer break!
+- From October 20th: **Dask and Pangeo** (Aurélie Albert)
+- From end of October: **Python dashboard** (Juan-Pedro ROLDAN-BLASCO)
 
 ## Possible next meetings:
 
-- **dask+xarray** and **pangeo** (Aurélie Albert)
+- **intake** (Mickaël Lalande)
 - **visit** / **FlowVR** (Basile HECTOR)
 - **PyVista** (Benoït Urruty)
 
