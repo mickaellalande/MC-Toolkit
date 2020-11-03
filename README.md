@@ -5,7 +5,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 17/11 at 10:30 am (to confirm): [Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm) will present an introduction to Python parallelization with the [Dask](https://dask.org/) package and will make us discover what is behind the [Pangeo](https://pangeo.io/) community project.
+- Tuesday 17/11 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98356557645?pwd=bWpFTTI0T3BWVlVQQldMTjByVHZ5QT09)): [Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm) will present an introduction to Python parallelization with the [Dask](https://dask.org/) package and will make us discover what is behind the [Pangeo](https://pangeo.io/) community project.
 
 - From end of October: Python dashboard ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
 
@@ -36,14 +36,14 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 - Computation centers (CIMENT, CICLAD, etc?)
 - Machine Learning
 - How to make a poster?
-- Statistics (how to compute trends, etc.?) 
+- Statistics (how to compute trends, etc.?)
 - How to write an article / deal with bibliography? (latex, medeley, overleaf, etc.)  
 - Linux basics (bash, commands)
 - How to get CMIP6 data? (website, CICLAD/CLIMAF)
-- Reanalyses / Observations 
+- Reanalyses / Observations
 - How to launch MAR / LMDZ / Elmer-ICE / NEMO
 
-  
+
 
 The goal is to present a tool and exchange with others + know who to ask when we need help.
 
