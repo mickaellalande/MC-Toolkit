@@ -5,7 +5,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 17/11 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98356557645?pwd=bWpFTTI0T3BWVlVQQldMTjByVHZ5QT09)): [Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm) will present an introduction to Python parallelization with the [Dask](https://dask.org/) package and will make us discover what is behind the [Pangeo](https://pangeo.io/) community project.
+- Tuesday 17/11 at 10:00 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98356557645?pwd=bWpFTTI0T3BWVlVQQldMTjByVHZ5QT09)): [Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm) will present an introduction to Python parallelization with the [Dask](https://dask.org/) package and will make us discover what is behind the [Pangeo](https://pangeo.io/) community project.
 
 - From end of October: Python dashboard ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
 
