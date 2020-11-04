@@ -13,8 +13,10 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 - [intake](https://intake-esm.readthedocs.io/en/latest/notebooks/tutorial.html) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - [binder](https://mybinder.org/) ([Takaya Uchida](https://roxyboy.github.io/))
+- How to make a Python package? ([Clara BURGARD](http://pp.ige-grenoble.fr/pageperso/burgardc/))
 - visit / FlowVR ([Basile HECTOR](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/hectorb.htm))
 - [PyVista](https://docs.pyvista.org/) ([Benoït Urruty](http://pp.ige-grenoble.fr/pageperso/urrutyb/))
+- Colorbars (https://www.nature.com/articles/s41467-020-19160-7)
 
 ## Past meetings:
 
