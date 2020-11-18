@@ -5,8 +5,8 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 01/12 (to confirm): [binder](https://mybinder.org/) ([Takaya Uchida](https://roxyboy.github.io/))
-- Tuesday 15/12 (to confirm): Python dashboard ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
+- Tuesday 01/12 at 10:20 am ([zoom]( https://univ-grenoble-alpes-fr.zoom.us/j/97890848963?pwd=K1Z0ak9oM0FzUWwyeGQ2Y2d6T2VqUT09)): [binder](https://mybinder.org/) ([Takaya Uchida](https://roxyboy.github.io/))
+- Tuesday 15/12 at 10:20 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/92692805324?pwd=OUkwUHphSE5ybWEyL2JOdnk1WVZFUT09) to confirm): Python dashboard ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
 
 ## Possible next meetings:
 
