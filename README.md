@@ -13,7 +13,8 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 - [intake](https://intake-esm.readthedocs.io/en/latest/notebooks/tutorial.html) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - How to make a Python package? ([Clara BURGARD](http://pp.ige-grenoble.fr/pageperso/burgardc/))
 - visit / FlowVR ([Basile HECTOR](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/hectorb.htm))
-- Colorbars (https://www.nature.com/articles/s41467-020-19160-7)
+- Colorbars (https://www.nature.com/articles/s41467-020-19160-7) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/)?)
+- Numpy (https://www.nature.com/articles/s41586-020-2649-2.pdf) 
 
 ## Past meetings:
 
