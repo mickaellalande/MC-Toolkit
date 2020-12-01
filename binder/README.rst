@@ -1,7 +1,7 @@
 Reproducible science with Binder
 ================================
 
-The `PDF <https://github.com/roxyboy/MC-Toolkit/binder/MCToolKit_Binder.pdf>`_
+The `PDF <MCToolKit_Binder.pdf>`_
 of the presentation given on December 1, 2020 at the Mardi Café is provided in
 this repo. 
 
@@ -12,6 +12,7 @@ version control, there are two minor edits needed in the notebook when running
 them on Binder, let me (Takaya) know if you try it out and face an issue.)
 
 Some links:
+
 * Binder_
 * Zenodo_
 
