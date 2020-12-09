@@ -5,8 +5,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 01/12 at 10:20 am ([zoom]( https://univ-grenoble-alpes-fr.zoom.us/j/97890848963?pwd=K1Z0ak9oM0FzUWwyeGQ2Y2d6T2VqUT09)): Reproducable science with [Binder](https://mybinder.org/) ([Takaya Uchida](https://roxyboy.github.io/))
-- Tuesday 15/12 at 10:20 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/92692805324?pwd=OUkwUHphSE5ybWEyL2JOdnk1WVZFUT09) ~30 minutes to confirm): GUI for dummies with [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
+- Tuesday 15/12 at 11 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/92692805324?pwd=OUkwUHphSE5ybWEyL2JOdnk1WVZFUT09) ~30 minutes): GUI for dummies with [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
 
 ## Possible next meetings:
 
@@ -18,6 +17,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Past meetings:
 
+- Tuesday 01/12 at 10:20 am: [Reproducable science with Binder](binder) ([Takaya Uchida](https://roxyboy.github.io/))
 - Tuseday 17/11 at 10:00 am: [Managing big data in geosciences with PANGEO](https://github.com/mickaellalande/MC-Toolkit/blob/master/Managing-big-data-in-geasciences-with-PANGEO/readme.md) ([video](https://www.youtube.com/watch?v=tkaqetLSVFo) and [slides](https://github.com/mickaellalande/MC-Toolkit/blob/master/Managing-big-data-in-geasciences-with-PANGEO/mctoolkit-pangeo.pdf))
 - Tuesday 30/06 at 10:00 am: [Set conda environment](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:25 to 35:10) + [xarray](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot/xarray) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to end) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - Tuesday 16/06 at 09:30 am: [Cartopy map](cartopy) ([Fanny Brun](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/brun.htm))
