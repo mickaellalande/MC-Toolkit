@@ -18,7 +18,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 ## Past meetings:
 
 - Tuesday 01/12 at 10:20 am: [Reproducable science with Binder](binder) ([Takaya Uchida](https://roxyboy.github.io/))
-- Tuseday 17/11 at 10:00 am: [Managing big data in geosciences with PANGEO](Managing-big-data-in-geasciences-with-PANGEO/readme.md) ([video](https://www.youtube.com/watch?v=tkaqetLSVFo) and [slides](Managing-big-data-in-geasciences-with-PANGEO/mctoolkit-pangeo.pdf))
+- Tuseday 17/11 at 10:00 am: [Managing big data in geosciences with PANGEO](Managing-big-data-in-geasciences-with-PANGEO/readme.md) ([video](https://www.youtube.com/watch?v=tkaqetLSVFo) and [slides](Managing-big-data-in-geasciences-with-PANGEO/mctoolkit-pangeo.pdf)) ([Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm))
 - Tuesday 30/06 at 10:00 am: [Set conda environment](conda_environment_xarray_xesmf_proplot) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 1:25 to 35:10) + [xarray](https://github.com/mickaellalande/MC-Toolkit/tree/master/conda_environment_xarray_xesmf_proplot/xarray) ([video](https://www.youtube.com/watch?v=Gb0smIc1VpM) 35:10 to end) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - Tuesday 16/06 at 09:30 am: [Cartopy map](cartopy) ([Fanny Brun](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/brun.htm))
 - Tuesday 05/05 at 10:30 am: ['best practices' with git+jupyter notebooks](Best-practices-notebooks-conda-git/README.md) ([video](https://www.youtube.com/watch?v=NFj-qJ5r4iI&feature=youtu.be)) ([Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm))
