@@ -5,16 +5,17 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Will come back in January/February
+- Tuesday 26/01 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98785669859?pwd=OUNDYlJJMFJBWlprYjloeWxHY2haQT09)): [intake](https://intake-esm.readthedocs.io/en/latest/notebooks/tutorial.html) - taking the pain out of data access (CMIP6) ([Mickaël Lalande](https://mickaellalande.github.io/))
+- Tuesday 09/02 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/95634673467?pwd=OWxlcEh5NnNwMUQ4R1kzTFZxcDVNUT09)): How to make a Python package? ([Clara BURGARD](http://pp.ige-grenoble.fr/pageperso/burgardc/))
+- Tuesday 23/02 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98488330229?pwd=eE1tYURzekNDelEyR3NJUWhORWdXdz09)): [The misuse of colour in science communication
+](https://www.nature.com/articles/s41467-020-19160-7) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/))
 
 ## Possible next meetings:
 
-- [intake](https://intake-esm.readthedocs.io/en/latest/notebooks/tutorial.html) ([Mickaël Lalande](https://mickaellalande.github.io/))
-- How to make a Python package? ([Clara BURGARD](http://pp.ige-grenoble.fr/pageperso/burgardc/))
 - visit / FlowVR ([Basile HECTOR](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/hectorb.htm))
-- Colorbars (https://www.nature.com/articles/s41467-020-19160-7) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/)?)
 - Web graphic interface (ex: [getopstandop.u-ga.fr/](http://getopstandop.u-ga.fr/)) ([Samuel WEBER](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/webersa.htm))
-- Numpy (https://www.nature.com/articles/s41586-020-2649-2.pdf) 
+- Numpy (https://www.nature.com/articles/s41586-020-2649-2.pdf)
+- How to use git for backing up and keep track of your work (easiest level)
 
 ## Past meetings:
 
