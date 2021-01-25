@@ -1,4 +1,4 @@
-# [Intake](https://intake-esm.readthedocs.io/en/latest/notebooks/tutorial.html) - taking the pain out of data access (CMIP6)
+# [Intake](https://intake-esm.readthedocs.io/en/latest/user-guide/cmip6-tutorial.html) - taking the pain out of data access (CMIP6)
 
 Presented by [Mickaël Lalande](https://mickaellalande.github.io/) on 26/01/2021
 
