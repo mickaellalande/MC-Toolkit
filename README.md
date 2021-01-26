@@ -5,7 +5,6 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 26/01 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98785669859?pwd=OUNDYlJJMFJBWlprYjloeWxHY2haQT09)): [intake - taking the pain out of data access (CMIP6)](intake) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - Tuesday 09/02 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/95634673467?pwd=OWxlcEh5NnNwMUQ4R1kzTFZxcDVNUT09)): How to make a Python package? ([Clara BURGARD](https://claraburgard.weebly.com/))
 - Tuesday 23/02 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98488330229?pwd=eE1tYURzekNDelEyR3NJUWhORWdXdz09)): [The misuse of colour in science communication
 ](https://www.nature.com/articles/s41467-020-19160-7) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/))
@@ -19,6 +18,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Past meetings:
 
+- Tuesday 26/01 at 10:30 am: [intake - taking the pain out of data access (CMIP6)](intake) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - Tuesday 15/12 at 11:00 am: [GUI for dummies with PySimpleGUI](PySimpleGUI) ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
 - Tuesday 01/12 at 10:20 am: [Reproducable science with Binder](binder) ([Takaya Uchida](https://roxyboy.github.io/))
 - Tuseday 17/11 at 10:00 am: [Managing big data in geosciences with PANGEO](Managing-big-data-in-geasciences-with-PANGEO/readme.md) ([video](https://www.youtube.com/watch?v=tkaqetLSVFo) and [slides](Managing-big-data-in-geasciences-with-PANGEO/mctoolkit-pangeo.pdf)) ([Aurélie Albert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/albert.htm))
