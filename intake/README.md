@@ -8,6 +8,11 @@ This presentation is to show experimental and promissing new packages. So far I 
 
 [![](img/pdf.png)](MC-Toolkit_Intake.pdf)
 
+## Video
+
+https://youtu.be/72pxmrhuc5Q
+
+
 ## Code
 
 https://github.com/mickaellalande/intake_CMIP6
