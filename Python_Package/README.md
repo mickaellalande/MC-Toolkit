@@ -7,15 +7,15 @@ a Python package so it does not necessarily contain everything that can be done.
 
 ## Presentation
 
-[The presentation can be found here](MC_Toolkit_PythonPackage.pdf)
+[![](slides_preview.png)](MC_Toolkit_PythonPackage.pdf)
 
 ## Video
 
-
+https://youtu.be/Mb0XuUiVVVs
 
 ## Links
   - [Steps done for my package in the form of issues](https://github.com/ClimateClara/arc3o/issues?q=is:issue+is:closed)
   - [Tutorial for the basic steps](https://packaging.python.org/tutorials/packaging-projects/)
   - [Numpystyle Docstrings](https://numpydoc.readthedocs.io/en/latest/format.html#docstring-standard)
   - [Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
-  - [Readthedocs](https://readthedocs.org/) 
+  - [Readthedocs](https://readthedocs.org/)
