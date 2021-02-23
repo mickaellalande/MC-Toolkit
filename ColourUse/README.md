@@ -1,6 +1,6 @@
 # The misuse of colour in science communication
 
-Presented by [Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/) on 23/02/2021
+Presented by [Jean-Baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/) on 23/02/2021
 
 [![Crameri-2020-misuse of colour in science communication.pdf](paper.png)](MC_Toolkit_PythonPackage.pdf)
 
@@ -14,7 +14,7 @@ https://youtu.be/DgK-Uezkjao
 
 ## Links
 
-### From Author
+### From Author
   - [Crameri’s website](http://www.fabiocrameri.ch/colourmaps.php)
   - The scientific material: https://zenodo.org/record/4491293#.YCaXIGhKiUk
 
