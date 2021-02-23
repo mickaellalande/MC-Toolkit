@@ -36,4 +36,4 @@ https://youtu.be/DgK-Uezkjao
 ### Others
   - Color Blindness Simulator: https://www.color-blindness.com/coblis-color-blindness-simulator/
   - Nice little tool for quick colour blind check: https://colororacle.org/
-  -[Tool for choosing the most appropriate shades of your favorite colors](https://public.tableau.com/views/TableauColors/ColorPaletteswithRGBValues?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&fbclid=IwAR0jUu4nSMRkIWvcRYzafNR0AGLwnyhI_uMK47tknHr4GlGZ8IlnHCYwSM4)
+  - [Tool for choosing the most appropriate shades of your favorite colors](https://public.tableau.com/views/TableauColors/ColorPaletteswithRGBValues?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&fbclid=IwAR0jUu4nSMRkIWvcRYzafNR0AGLwnyhI_uMK47tknHr4GlGZ8IlnHCYwSM4)
