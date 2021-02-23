@@ -1,0 +1,102 @@
+Scientific Colour Map Categorical Palette
+batlow 100 scrambled Swatches
+  1  25  89	batlow-1 #011959
+250 204 250	batlow-256 #FACCFA
+129 130  50	batlow-128 #818232
+241 157 107	batlow-192 #F19D6B
+ 34  96  97	batlow-65 #226061
+ 17  67  96	batlow-33 #114360
+253 180 180	batlow-224 #FDB4B4
+190 144  53	batlow-160 #BE9035
+ 77 115  77	batlow-97 #4D734D
+ 13  49  93	batlow-17 #0D315D
+252 191 214	batlow-240 #FCBFD6
+219 149  75	batlow-176 #DB954B
+ 53 106  89	batlow-81 #356A59
+252 168 144	batlow-208 #FCA890
+159 137  43	batlow-144 #9F892B
+ 23  82  98	batlow-49 #175262
+101 122  63	batlow-112 #657A3F
+ 65 111  83	batlow-89 #416F53
+ 19  75  97	batlow-41 #134B61
+143 134  45	batlow-136 #8F862D
+251 198 232	batlow-248 #FBC6E8
+ 27  89  98	batlow-57 #1B5962
+115 126  56	batlow-120 #737E38
+ 43 101  94	batlow-73 #2B655E
+  8  37  91	batlow-9 #08255B
+231 152  90	batlow-184 #E7985A
+253 174 162	batlow-216 #FDAEA2
+253 186 196	batlow-232 #FDBAC4
+205 146  63	batlow-168 #CD923F
+ 15  59  95	batlow-25 #0F3B5F
+248 162 126	batlow-200 #F8A27E
+175 141  46	batlow-152 #AF8D2E
+ 88 118  70	batlow-104 #587646
+ 16  63  96	batlow-29 #103F60
+ 38  99  95	batlow-69 #26635F
+253 183 188	batlow-228 #FDB7BC
+ 25  86  98	batlow-53 #195662
+ 18  71  97	batlow-37 #124761
+183 142  49	batlow-156 #B78E31
+ 71 113  80	batlow-93 #477150
+121 128  53	batlow-124 #798035
+253 171 154	batlow-212 #FDAB9A
+253 177 171	batlow-220 #FDB1AB
+225 151  82	batlow-180 #E19752
+108 124  60	batlow-116 #6C7C3C
+212 148  69	batlow-172 #D49445
+ 21  79  98	batlow-45 #154F62
+198 145  58	batlow-164 #C6913A
+237 154  98	batlow-188 #ED9A62
+167 139  44	batlow-148 #A78B2C
+ 48 104  92	batlow-77 #30685C
+ 59 109  86	batlow-85 #3B6D56
+ 14  54  94	batlow-21 #0E365E
+253 188 205	batlow-236 #FDBCCD
+136 132  47	batlow-132 #88842F
+ 95 120  67	batlow-108 #5F7843
+252 195 223	batlow-244 #FCC3DF
+ 11  43  92	batlow-13 #0B2B5C
+251 201 241	batlow-252 #FBC9F1
+250 165 135	batlow-204 #FAA587
+245 159 116	batlow-196 #F59F74
+ 30  93  98	batlow-61 #1E5D62
+  5  31  90	batlow-5 #051F5A
+151 136  44	batlow-140 #97882C
+ 83 117  73	batlow-101 #537549
+155 137  43	batlow-142 #9B892B
+202 146  60	batlow-166 #CA923C
+163 138  44	batlow-146 #A38A2C
+252 190 209	batlow-238 #FCBED1
+253 175 167	batlow-218 #FDAFA7
+ 19  73  97	batlow-39 #134961
+ 22  80  98	batlow-47 #165062
+ 32  94  97	batlow-63 #205E61
+243 158 112	batlow-194 #F39E70
+ 24  84  98	batlow-51 #185462
+251 202 246	batlow-254 #FBCAF6
+222 150  79	batlow-178 #DE964F
+ 18  69  97	batlow-35 #124561
+253 172 158	batlow-214 #FDAC9E
+253 184 192	batlow-230 #FDB8C0
+252 196 227	batlow-246 #FCC4E3
+132 131  49	batlow-130 #848331
+125 129  52	batlow-126 #7D8134
+ 17  65  96	batlow-31 #114160
+111 125  58	batlow-118 #6F7D3A
+140 133  46	batlow-134 #8C852E
+ 16  61  95	batlow-27 #103D5F
+104 123  62	batlow-114 #687B3E
+147 135  44	batlow-138 #93872C
+ 26  87  98	batlow-55 #1A5762
+194 144  55	batlow-162 #C29037
+  3  28  90	batlow-3 #031C5A
+ 56 108  88	batlow-83 #386C58
+171 140  45	batlow-150 #AB8C2D
+ 62 110  85	batlow-87 #3E6E55
+209 147  66	batlow-170 #D19342
+ 68 112  82	batlow-91 #447052
+ 15  56  95	batlow-23 #0F385F
+253 187 201	batlow-234 #FDBBC9
+228 151  86	batlow-182 #E49756
