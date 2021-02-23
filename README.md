@@ -5,18 +5,23 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 23/02 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/98488330229?pwd=eE1tYURzekNDelEyR3NJUWhORWdXdz09)): [The misuse of colour in science communication
-](https://www.nature.com/articles/s41467-020-19160-7) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/))
+Coming back soon!
 
 ## Possible next meetings:
 
-- visit / FlowVR ([Basile HECTOR](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/hectorb.htm))
-- Web graphic interface (ex: [getopstandop.u-ga.fr/](http://getopstandop.u-ga.fr/)) ([Samuel WEBER](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/webersa.htm))
-- Numpy (https://www.nature.com/articles/s41586-020-2649-2.pdf)
+- Github Pages ([Mickaël Lalande](https://mickaellalande.github.io/), [Amaury Dehecq](https://adehecq.github.io/), [Takaya Uchida](https://roxyboy.github.io/) ?)
+- How to write science ([Charles Amory](http://www.ige-grenoble.fr/identite_id1776889.html))
 - How to use git for backing up and keep track of your work (easiest level)
+- Numpy (https://www.nature.com/articles/s41586-020-2649-2.pdf)
+- Web graphic interface (ex: [getopstandop.u-ga.fr/](http://getopstandop.u-ga.fr/)) ([Samuel WEBER](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/webersa.htm))
+- visit / FlowVR ([Basile HECTOR](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/hectorb.htm))
+
+
 
 ## Past meetings:
 
+- Tuesday 23/02 at 10:30 am: [The misuse of colour in science communication
+](ColourUse) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/))
 - Tuesday 09/02 at 10:30 am: [How to make a Python package?](Python_Package) ([Clara BURGARD](https://claraburgard.weebly.com/))
 - Tuesday 26/01 at 10:30 am: [intake - taking the pain out of data access (CMIP6)](intake) ([Mickaël Lalande](https://mickaellalande.github.io/))
 - Tuesday 15/12 at 11:00 am: [GUI for dummies with PySimpleGUI](PySimpleGUI) ([Juan-Pedro ROLDAN-BLASCO](http://pp.ige-grenoble.fr/pageperso/roldanbj/))
