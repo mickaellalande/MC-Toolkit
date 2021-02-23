@@ -2,11 +2,11 @@
 
 Presented by [Jean-Baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/) on 23/02/2021
 
-[![Crameri-2020-misuse of colour in science communication.pdf](paper.png)](MC_Toolkit_PythonPackage.pdf)
+[![](paper.png)](Crameri-2020-misuse%20of%20colour%20in%20science%20communication.pdf)
 
 ## Presentation
 
-[![](slides_preview.png)](MC_Toolkit_PythonPackage.pdf)
+[![](slides_preview.png)](JBBARRE_IGE_MCtoolkit_ColourUse.pdf)
 
 ## Video
 
