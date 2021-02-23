@@ -16,7 +16,7 @@ https://youtu.be/DgK-Uezkjao
 
 ### From Author
   - [Crameri’s website](http://www.fabiocrameri.ch/colourmaps.php)
-  - The scientific material: https://zenodo.org/record/4491293#.YCaXIGhKiUk
+  - Scientific Color Maps proposed by Crameri [v7.0 - Open Access]: https://zenodo.org/record/4491293#.YCaXIGhKiUk
 
 ### Colour-vision deficiency
   - https://blog.datawrapper.de/colorblindness-part1/
