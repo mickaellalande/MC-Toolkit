@@ -5,7 +5,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
-- Tuesday 11/05 at 10:30 am: Machine learning #1: Creating of a discussion group within MCToolkit, first meeting
+- Tuesday 11/05 at 10:30 am: Machine learning #1: Creation of a new discussion group within MCToolkit, first meeting
 
 ## Possible next meetings:
 
