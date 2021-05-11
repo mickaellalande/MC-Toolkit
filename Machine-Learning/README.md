@@ -4,14 +4,14 @@ The goal of this group is to discuss about topic related to Machine Learning.
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
-
-- Tuesday 11/05 at 10:30 am: Machine learning #1: Creation of a new discussion group within MCToolkit, first meeting (Thomas Chauve)
+- Tuesday XX/XX at 10:30 am : Presentation of a ML probleme from scratch ([Clara Burgard](https://claraburgard.weebly.com/))
 
 ## Possible next meetings / Topic:
 -
 
 ## Past meetings:
--
+
+- Tuesday 11/05 at 10:30 am: Machine learning #1: Creation of a new discussion group within MCToolkit, first meeting (Thomas Chauve)
 
 ## Here are some ideas of topics/tools to talk about:
 
