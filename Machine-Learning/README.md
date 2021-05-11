@@ -34,6 +34,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ### Paper discussion
 - [Padarian et al. 2020 - Game theory interpretation of digital soil mapping convolutional neural networks](https://soil.copernicus.org/articles/6/389/2020/)
+- [Valmonte Riel et al. 2021 - Data-Driven Inference of the Mechanics of Slip Along Glacier Beds Using Physics-Informed Neural Networks](https://doi.org/10.31223/X52C8V)
 
 ### Present your work
 -
