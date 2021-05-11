@@ -19,6 +19,9 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 - Tree base machine learning (Random Forest, Gradient Boost)
 - Neural Network
 - Convolutional Neural Network (CNN)
+- Neural Ordinary Differential Equations (Neural ODEs)
+- Universal Differential Equations (UDEs)
+- Physics-Informed Neural Networks (PINNs)
 
 ### Environement
 - [scikit-learn framework](https://scikit-learn.org/stable/index.html)
@@ -31,10 +34,14 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 - [LIME](https://github.com/marcotcr/lime)
 - [Recursive Feature Elimination (RFE)](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFECV.html#sklearn.feature_selection.RFECV)
 - [Permutation Importance](https://scikit-learn.org/stable/modules/generated/sklearn.inspection.permutation_importance.html#sklearn.inspection.permutation_importance)
+- [Universal Differential Equations](http://www.stochasticlifestyle.com/tag/universal-differential-equations/)
 
 ### Paper discussion
 - [Padarian et al. 2020 - Game theory interpretation of digital soil mapping convolutional neural networks](https://soil.copernicus.org/articles/6/389/2020/)
 - [Valmonte Riel et al. 2021 - Data-Driven Inference of the Mechanics of Slip Along Glacier Beds Using Physics-Informed Neural Networks](https://doi.org/10.31223/X52C8V)
+- [Rackauckas et al., 2020 - Universal Differential Equations for ScientificMachine Learning](https://arxiv.org/pdf/2001.04385.pdf)
+- [Brinkerhoff et al., 2020 - CONSTRAINING  SUBGLACIAL PROCESSES FROM  SURFACE VELOCITY OBSERVATIONS USING  SURROGATE-BASEDBAYESIAN INFERENCE](https://arxiv.org/pdf/2006.12422.pdf)
+
 
 ### Present your work
 -
