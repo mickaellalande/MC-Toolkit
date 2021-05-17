@@ -6,6 +6,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)):
 
 - Tuesday 25/05 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/96340828737?pwd=N3RXdTJQQ0J3Q3N1Q2FrY2RGamtsZz09)): Science outreach and documentation on the cloud - A brief overview of the tools behind OGGM-Edu: holoviz, sphinx, readthedocs, mybinder, repo2docker, jupyterhub ([Fabien Maussion](https://fabienmaussion.info/))
+- Tuesday 22/06 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/94225533162?pwd=L3pSaEMweDVFaDNMK3VFcDQrYkg4dz09)): Machine learning #2: Presentation of a ML probleme from scratch ([Clara Burgard](https://claraburgard.weebly.com/))
 
 ## Possible next meetings:
 
