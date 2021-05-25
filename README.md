@@ -20,7 +20,7 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Past meetings:
 
-- Tuesday 25/05 at 10:30 am: Science outreach and documentation on the cloud - A brief overview of the tools behind OGGM-Edu: holoviz, sphinx, readthedocs, mybinder, repo2docker, jupyterhub ([Fabien Maussion](https://fabienmaussion.info/)) ([slides](slides/OGGM-Edu tools.pdf))
+- Tuesday 25/05 at 10:30 am: Science outreach and documentation on the cloud - A brief overview of the tools behind OGGM-Edu: holoviz, sphinx, readthedocs, mybinder, repo2docker, jupyterhub ([Fabien Maussion](https://fabienmaussion.info/)) ([slides](https://github.com/mickaellalande/MC-Toolkit/blob/master/slides/OGGM-Edu%20tools.pdf))
 - Tuesday 11/05 at 10:30 am: [Machine learning](Machine-Learning) #1: Creation of a new discussion group within MCToolkit, first meeting (Thomas Chauve)
 - Tuesday 23/02 at 10:30 am: [The misuse of colour in science communication
 ](ColourUse) ([Jean-baptiste Barré](http://pp.ige-grenoble.fr/pageperso/barrej/))
