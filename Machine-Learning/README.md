@@ -4,13 +4,14 @@ The goal of this group is to discuss about topic related to Machine Learning.
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)) : 
-- Tuesday 22/06 at 10:30 am ([zoom](https://univ-grenoble-alpes-fr.zoom.us/j/94225533162?pwd=L3pSaEMweDVFaDNMK3VFcDQrYkg4dz09)): Machine learning #2: Presentation of a ML probleme from scratch ([Clara Burgard](https://claraburgard.weebly.com/))
+-
 
 ## Possible next meetings / Topic:
 -
 
 ## Past meetings:
 
+- Tuesday 22/06 at 10:30 am : Machine learning #2: Presentation of a ML probleme from scratch ([Clara Burgard](https://claraburgard.weebly.com/))
 - Tuesday 11/05 at 10:30 am: Machine learning #1: Creation of a new discussion group within MCToolkit, first meeting (Thomas Chauve)
 
 ## Here are some ideas of topics/tools to talk about:
@@ -22,6 +23,9 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 - Neural Ordinary Differential Equations (Neural ODEs)
 - Universal Differential Equations (UDEs)
 - Physics-Informed Neural Networks (PINNs)
+
+### Tutorials
+- [FIDLE](https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle)
 
 ### Environement
 - [scikit-learn framework](https://scikit-learn.org/stable/index.html)
