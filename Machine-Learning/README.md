@@ -5,6 +5,9 @@ For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)) : 
 -
+### Invited speaker
+- Louis Le Toumelin (CEN) [RG](https://www.researchgate.net/profile/Louis-Le-Toumelin) (git)[https://github.com/louisletoumelin] : Use ML to do downscaling of wind prediction in mountain environment.
+- Ravi raj purohit Purushottam Raj Purohit (ESRF) [RG](https://www.researchgate.net/profile/Ravi-Raj-Purohit-Purushottam-Raj-Purohit) : Use ML to index diffraction pattern. He trains its model using simulated data.
 
 ## Possible next meetings / Topic:
 -
