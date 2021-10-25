@@ -4,7 +4,7 @@ The goal of this group is to discuss about topic related to Machine Learning.
 For easily editing a README: [https://stackedit.io/](https://stackedit.io/)
 
 ## Next meetings ([calendar](https://calendar.google.com/calendar/ical/qtf92ferc1tf5knsqjoptqv498%40group.calendar.google.com/public/basic.ics)) : 
-- Thurday 4/11 at 10:00 am : Machine learning #3: Physical constraints to machine learning methods [Jordi Bolibar](https://jordibolibar.wordpress.com/) (Material : [Paper](https://arxiv.org/pdf/2001.04385v1.pdf), [Video](https://www.youtube.com/watch?v=SU-OILSmR1M), [Book](https://physicsbaseddeeplearning.org/intro.html))
+- Thursday 4/11 at 10:00 am : Machine learning #3: Physical constraints to machine learning methods [Jordi Bolibar](https://jordibolibar.wordpress.com/) (Material : [Paper](https://arxiv.org/pdf/2001.04385v1.pdf), [Video](https://www.youtube.com/watch?v=SU-OILSmR1M), [Book](https://physicsbaseddeeplearning.org/intro.html))
 
 ### Invited speaker
 - Louis Le Toumelin (CEN) [RG](https://www.researchgate.net/profile/Louis-Le-Toumelin) [git](https://github.com/louisletoumelin) : Use ML to do downscaling of wind prediction in mountain environment.
