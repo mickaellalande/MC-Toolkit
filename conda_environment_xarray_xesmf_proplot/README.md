@@ -9,6 +9,10 @@ This is some recommendations based on my own experience, feel free not to follow
 
 ## General installation
 
+/!\ **This installation does not work on CICLAD anymore, so refer to CICLAD section below** /!\ 
+
+Updated version here: https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/ (only for general installation, for server specifications see below)
+
 1. **Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)**:
    (if you don't already have an installation of Anaconda/Miniconda -> Miniconda is lighter and allows to only install the packages that you need)
 
@@ -45,6 +49,43 @@ It is recommended not to use the **root** (base) environment so that you keep a 
 conda create -n my_env jupyter # ... install any package you want
 conda activate my_env
 ```
+4. **Configure Jupyter**
+
+The problem with launching Jupyter on a server is that you will have to make an ssh bridge between your machine and the server to open Jupyter directly on your internet browser. So you have to specify to Jupyter not to open a window on the server and to open Jupyter on a specific port (if needed).
+
+There are two ways to do this, either you specify all this in your command when you run Jupyter, or you create a configuration file:
+
+- **Command line**
+  Here is an example of a command line (where XXXX would be your port number), but don’t run it yet, it would be for later!
+
+```bash
+jupyter lab --port XXXX --ip 0.0.0.0 --no-browser
+```
+
+- **Configuration file**
+
+Alternatively, you can put this directly into a configuration file and just run the command jupyter lab (or jupyter notebook):
+
+Create a configuration file and edit it
+
+```bash
+jupyter notebook --generate-config
+gvim ~/.jupyter/jupyter_notebook_config.py
+```
+
+Uncomment these lines and modify them as follow
+
+```bash
+c.NotebookApp.allow_origin = '*'
+c.NotebookApp.ip = '0.0.0.0'
+c.NotebookApp.port = XXXX
+c.NotebookApp.open_browser = False
+```
+
+
+
+---
+
 **Tip**: You can add `conda activate my_env` in your .bashrc so you don't have to activate it every time.
 
 **Tip 2**: Use [screen](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/40849-executer-des-programmes-en-arriere-plan#/id/r-40848) not to get disconnected!
@@ -100,11 +141,53 @@ See more: https://gricad-doc.univ-grenoble-alpes.fr/notebook/hpcnb/ (other metho
 
 
 
-## CICLAD specifications (with CLIMAF)
+## CICLAD specifications
 
-You need to get a "port" from jerome.servonnat@lsce.ipsl.fr before to use Jupyter-Notebook.
+You need to get a "port" from `jerome.servonnat@lsce.ipsl.fr` before to use Jupyter-Notebook.
 
 Connect to CICLAD: `ssh -XY mlalande@ciclad.ipsl.jussieu.fr` or CLIMSERV: `ssh -XY mlalande@camelot.ipsl.polytechnique.fr`
+
+### Your own environment (recommanded for xarray, etc.)
+
+Recent Anaconda/Miniconda does not work anymore on CICLAD (https://documentations.ipsl.fr/MESO_User/Python/python_version.html)
+
+1) So I recommend to directly use their `conda` through: `module load python/3.8-anaconda`
+
+Then you can create your own environment that will be stored in your `home` in a hidden folder `.conda` (only the environment size should not exceed 1 or 2 Go). You can use the [phd_v3.txt](phd_v3.txt) environment that contains most of the packages used in the [xarray](xarray) tutorial. This environment only works on CICLAD, for more general installation (on your personal machine or other server) you can use this file: https://github.com/mickaellalande/ERCA/blob/main/environment.yml (be aware that this environment starts to be a bit old).
+
+2. So after loading conda you can install this environment (or create your own): `conda create --name phd_v3 --file phd_v3.txt`
+3. Then you can follow the step 4 above to create the configuration file. 
+
+For ease, you can add the following lines to your *bashrc* (`gvim ~/.bashrc`) so you don't have to write them every time:
+
+```bash
+module load python/3.8-anaconda
+source activate phd_v3
+```
+
+The you need to launch a job, for example (adapt to your needs):
+
+```bash
+qsub -IVX -l nodes=1:ppn=4,mem=16g,vmem=16g,walltime=05:00:00
+```
+
+Then you should be able to launch Jupyter Lab. For ease you can also use the [jupyterlab.sh](jupyterlab.sh) script (that you can copy or create in your `home`):
+
+```bash
+sh jupyterlab.sh
+```
+
+That allows you to get the line to copy in your terminal (on your computer, not CICLAD) to make the SSH tunnel (without having to modify anything).
+
+Then you can access CMIP6 data for example in the `/bdd/CMIP6` folder (or any other data in `/bdd`). For more information about the data, you can contact Guillaume LEVAVASSEUR <Guillaume.Levavasseur@ipsl.fr>. You can use `intake` or `CLIMAF` (bellow) to help you accessing data. But once you know the architecture, you can also just use the direct paths. 
+
+Here is an example notebook: [CMIP6_CORDEX_CICLAD.ipynb](CMIP6_CORDEX_CICLAD.ipynb)
+
+
+
+### With CLIMAF
+
+No need to install any environment as it is already set. Be aware that you can't use all custom package with CLIMAF...
 
 ```bash
 qsub -IVX -l mem=9g,vmem=9g,walltime=06:00:00
@@ -113,6 +196,8 @@ climaf-notebook
 ```
 
 Follow the instructions
+
+More information on CLIMAF: https://climaf.readthedocs.io/en/master/
 
 
 
