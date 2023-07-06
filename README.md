@@ -1,3 +1,6 @@
+> **Warning**
+> This repository has been moved to: https://github.com/IGE-numerique/IGE-Toolkit
+
 # MC-Toolkit
 The goal of this repository is to give support materials for the meetings at [IGE](http://www.ige-grenoble.fr/) about tools: MC-Toolkit (MC stand for Mardi-Café, Modelisation&Climate,... who knows?), in additions of a Slack channel.
 
